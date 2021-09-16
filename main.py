@@ -298,28 +298,9 @@ def runfunctions(connection, path, filenames,years):
     print(create_dataset(connection,path,"dataset.csv"))
     print(callAPI(connection))
 
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     connection = create_connection("D:\\MCB\\connection.db")
     filenames = ["HR_2016.csv","happiNess_report_2017.csv","2018.csv","report_2019.csv"]
     years = ['2016','2017','2018','2019']
     path = "D:\MCB\Technical_Assessment_-_SE_(DATA)_-_Sept_2021\Data Files"
     runfunctions(connection,path,filenames,years)
-
-    # get column names
-    # cursor = connection.execute("SELECT * from happiness_report")
-    # names = list(map(lambda x: x[0], cursor.description))
-    # print(names)
-
-    # delete_comment = "DROP TABLE happiness_report"
-    # execute_query(connection, delete_comment)
-
-    # select_users = "SELECT * from happiness_report limit 10"
-    # users = execute_read_query(connection, select_users)
-    # for user in users:
-    #     print(user)
-
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
