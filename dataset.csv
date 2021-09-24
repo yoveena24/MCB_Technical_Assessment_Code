@@ -1,0 +1,625 @@
+year,country,happiness_score,happiness_status
+2016,Denmark,7.526,Green
+2016,Switzerland,7.5089999999999995,Green
+2016,Iceland,7.501,Green
+2016,Norway,7.497999999999999,Green
+2016,Finland,7.412999999999999,Green
+2016,Canada,7.404,Green
+2016,Netherlands,7.3389999999999995,Green
+2016,New Zealand,7.334,Green
+2016,Australia,7.313,Green
+2016,Sweden,7.291,Green
+2016,Israel,7.267,Green
+2016,Austria,7.119,Green
+2016,United States,7.104,Green
+2016,Costa Rica,7.087000000000001,Green
+2016,Puerto Rico,7.039,Green
+2016,Germany,6.994,Green
+2016,Brazil,6.952000000000001,Green
+2016,Belgium,6.928999999999999,Green
+2016,Ireland,6.907,Green
+2016,Luxembourg,6.871,Green
+2016,Mexico,6.778,Green
+2016,Singapore,6.739,Green
+2016,United Kingdom,6.725,Green
+2016,Chile,6.705,Green
+2016,Panama,6.7010000000000005,Green
+2016,Argentina,6.65,Green
+2016,Czech Republic,6.596,Green
+2016,United Arab Emirates,6.5729999999999995,Green
+2016,Uruguay,6.545,Green
+2016,Malta,6.4879999999999995,Green
+2016,Colombia,6.481,Green
+2016,France,6.478,Green
+2016,Thailand,6.474,Green
+2016,Saudi Arabia,6.379,Green
+2016,Taiwan,6.379,Green
+2016,Qatar,6.375,Green
+2016,Spain,6.361000000000001,Green
+2016,Algeria,6.355,Green
+2016,Guatemala,6.324,Green
+2016,Suriname,6.269,Green
+2016,Kuwait,6.239,Green
+2016,Bahrain,6.218,Green
+2016,Trinidad and Tobago,6.167999999999999,Green
+2016,Venezuela,6.084,Green
+2016,Slovakia,6.077999999999999,Green
+2016,El Salvador,6.068,Green
+2016,Malaysia,6.005,Green
+2016,Nicaragua,5.992000000000001,Green
+2016,Uzbekistan,5.987,Green
+2016,Italy,5.977,Green
+2016,Ecuador,5.976,Green
+2016,Belize,5.956,Green
+2016,Japan,5.921,Green
+2016,Kazakhstan,5.919,Green
+2016,Moldova,5.897,Green
+2016,Russia,5.856,Green
+2016,Poland,5.835,Green
+2016,South Korea,5.835,Green
+2016,Bolivia,5.822,Green
+2016,Lithuania,5.813,Green
+2016,Belarus,5.8020000000000005,Green
+2016,North Cyprus,5.771,Green
+2016,Slovenia,5.768,Green
+2016,Peru,5.742999999999999,Green
+2016,Turkmenistan,5.6579999999999995,Green
+2016,Mauritius,5.648,Green
+2016,Libya,5.615,Green
+2016,Latvia,5.56,Amber
+2016,Cyprus,5.546,Amber
+2016,Paraguay,5.537999999999999,Amber
+2016,Romania,5.528,Amber
+2016,Estonia,5.517,Amber
+2016,Jamaica,5.51,Amber
+2016,Croatia,5.4879999999999995,Amber
+2016,Hong Kong,5.457999999999999,Amber
+2016,Somalia,5.44,Amber
+2016,Kosovo,5.401,Amber
+2016,Turkey,5.388999999999999,Amber
+2016,Indonesia,5.314,Amber
+2016,Jordan,5.303,Amber
+2016,Azerbaijan,5.291,Amber
+2016,Philippines,5.279,Amber
+2016,China,5.245,Amber
+2016,Bhutan,5.196000000000001,Amber
+2016,Kyrgyzstan,5.185,Amber
+2016,Serbia,5.1770000000000005,Amber
+2016,Bosnia and Herzegovina,5.162999999999999,Amber
+2016,Montenegro,5.1610000000000005,Amber
+2016,Dominican Republic,5.155,Amber
+2016,Morocco,5.151,Amber
+2016,Hungary,5.145,Amber
+2016,Pakistan,5.132000000000001,Amber
+2016,Lebanon,5.129,Amber
+2016,Portugal,5.122999999999999,Amber
+2016,Macedonia,5.121,Amber
+2016,Vietnam,5.061,Amber
+2016,Somaliland Region,5.0569999999999995,Amber
+2016,Tunisia,5.045,Amber
+2016,Greece,5.033,Amber
+2016,Tajikistan,4.996,Amber
+2016,Mongolia,4.907,Amber
+2016,Laos,4.876,Amber
+2016,Nigeria,4.875,Amber
+2016,Honduras,4.871,Amber
+2016,Iran,4.813,Amber
+2016,Zambia,4.795,Amber
+2016,Nepal,4.793,Amber
+2016,Palestinian Territories,4.754,Amber
+2016,Albania,4.655,Amber
+2016,Bangladesh,4.643,Amber
+2016,Sierra Leone,4.635,Amber
+2016,Iraq,4.575,Amber
+2016,Namibia,4.574,Amber
+2016,Cameroon,4.513,Amber
+2016,Ethiopia,4.508,Amber
+2016,South Africa,4.459,Amber
+2016,Sri Lanka,4.415,Amber
+2016,India,4.404,Amber
+2016,Myanmar,4.395,Amber
+2016,Egypt,4.362,Amber
+2016,Armenia,4.36,Amber
+2016,Kenya,4.356,Amber
+2016,Ukraine,4.324,Amber
+2016,Ghana,4.276,Amber
+2016,Congo (Kinshasa),4.272,Amber
+2016,Georgia,4.252,Amber
+2016,Congo (Brazzaville),4.236000000000001,Amber
+2016,Senegal,4.218999999999999,Amber
+2016,Bulgaria,4.217,Amber
+2016,Mauritania,4.2010000000000005,Amber
+2016,Zimbabwe,4.1930000000000005,Amber
+2016,Malawi,4.156000000000001,Amber
+2016,Sudan,4.138999999999999,Amber
+2016,Gabon,4.121,Amber
+2016,Mali,4.073,Amber
+2016,Haiti,4.0280000000000005,Amber
+2016,Botswana,3.9739999999999998,Amber
+2016,Comoros,3.9560000000000004,Amber
+2016,Ivory Coast,3.9160000000000004,Amber
+2016,Cambodia,3.907,Amber
+2016,Angola,3.866,Amber
+2016,Niger,3.8560000000000003,Amber
+2016,South Sudan,3.832,Amber
+2016,Chad,3.763,Amber
+2016,Burkina Faso,3.739,Amber
+2016,Uganda,3.739,Amber
+2016,Yemen,3.7239999999999998,Amber
+2016,Madagascar,3.695,Amber
+2016,Tanzania,3.6660000000000004,Amber
+2016,Liberia,3.622,Amber
+2016,Guinea,3.6069999999999998,Amber
+2016,Rwanda,3.515,Amber
+2016,Benin,3.484,Amber
+2016,Afghanistan,3.36,Amber
+2016,Togo,3.303,Amber
+2016,Syria,3.069,Amber
+2016,Burundi,2.905,Amber
+2017,Norway,7.537000179,Green
+2017,Denmark,7.521999836,Green
+2017,Iceland,7.504000187000001,Green
+2017,Switzerland,7.493999958,Green
+2017,Finland,7.468999863,Green
+2017,Netherlands,7.376999855,Green
+2017,Canada,7.315999985,Green
+2017,New Zealand,7.31400013,Green
+2017,Sweden,7.28399992,Green
+2017,Australia,7.28399992,Green
+2017,Israel,7.212999821,Green
+2017,Costa Rica,7.078999996,Green
+2017,Austria,7.006000042,Green
+2017,United States,6.993000031,Green
+2017,Ireland,6.977000237,Green
+2017,Germany,6.951000214,Green
+2017,Belgium,6.890999794,Green
+2017,Luxembourg,6.862999916000001,Green
+2017,United Kingdom,6.714000225,Green
+2017,Chile,6.65199995,Green
+2017,United Arab Emirates,6.647999763,Green
+2017,Brazil,6.635000229,Green
+2017,Czech Republic,6.609000206,Green
+2017,Argentina,6.598999977,Green
+2017,Mexico,6.578000069,Green
+2017,Singapore,6.5720000270000005,Green
+2017,Malta,6.52699995,Green
+2017,Uruguay,6.453999996,Green
+2017,Guatemala,6.453999996,Green
+2017,Panama,6.452000141,Green
+2017,France,6.441999912000001,Green
+2017,Thailand,6.423999786,Green
+2017,Taiwan Province of China,6.421999931,Green
+2017,Spain,6.402999877999999,Green
+2017,Qatar,6.375,Green
+2017,Colombia,6.3569998739999996,Green
+2017,Saudi Arabia,6.343999863,Green
+2017,Trinidad and Tobago,6.168000221000001,Green
+2017,Kuwait,6.105000018999999,Green
+2017,Slovakia,6.09800005,Green
+2017,Bahrain,6.086999893,Green
+2017,Malaysia,6.084000111,Green
+2017,Nicaragua,6.071000099,Green
+2017,Ecuador,6.007999897,Green
+2017,El Salvador,6.002999783,Green
+2017,Poland,5.97300005,Green
+2017,Uzbekistan,5.971000195,Green
+2017,Italy,5.964000225,Green
+2017,Russia,5.962999821,Green
+2017,Belize,5.9559998510000005,Green
+2017,Japan,5.920000076,Green
+2017,Lithuania,5.90199995,Green
+2017,Algeria,5.872000217,Green
+2017,Latvia,5.849999905,Green
+2017,South Korea,5.837999821,Green
+2017,Moldova,5.837999821,Green
+2017,Romania,5.8249998089999995,Green
+2017,Bolivia,5.822999954,Green
+2017,Turkmenistan,5.8220000270000005,Green
+2017,Kazakhstan,5.818999767,Green
+2017,North Cyprus,5.809999942999999,Green
+2017,Slovenia,5.757999897,Green
+2017,Peru,5.715000152999999,Green
+2017,Mauritius,5.629000187000001,Green
+2017,Cyprus,5.620999812999999,Green
+2017,Estonia,5.611000061,Green
+2017,Belarus,5.568999767,Amber
+2017,Libya,5.525000095,Amber
+2017,Turkey,5.5,Amber
+2017,Paraguay,5.493000031,Amber
+2017,"Hong Kong S.A.R., China",5.472000122000001,Amber
+2017,Philippines,5.429999828,Amber
+2017,Serbia,5.394999981000001,Amber
+2017,Jordan,5.335999966,Amber
+2017,Hungary,5.323999882,Amber
+2017,Jamaica,5.31099987,Amber
+2017,Croatia,5.293000221000001,Amber
+2017,Kosovo,5.278999805,Amber
+2017,China,5.2729997630000005,Amber
+2017,Pakistan,5.269000053,Amber
+2017,Indonesia,5.262000083999999,Amber
+2017,Venezuela,5.25,Amber
+2017,Montenegro,5.236999989,Amber
+2017,Morocco,5.235000134,Amber
+2017,Azerbaijan,5.234000206,Amber
+2017,Dominican Republic,5.230000018999999,Amber
+2017,Greece,5.2270002369999995,Amber
+2017,Lebanon,5.224999905,Amber
+2017,Portugal,5.195000172,Amber
+2017,Bosnia and Herzegovina,5.18200016,Amber
+2017,Honduras,5.181000233,Amber
+2017,Macedonia,5.1750001910000005,Amber
+2017,Somalia,5.151000023,Amber
+2017,Vietnam,5.073999882,Amber
+2017,Nigeria,5.073999882,Amber
+2017,Tajikistan,5.040999889,Amber
+2017,Bhutan,5.011000156000001,Amber
+2017,Kyrgyzstan,5.004000187,Amber
+2017,Nepal,4.961999893,Amber
+2017,Mongolia,4.954999924,Amber
+2017,South Africa,4.828999996,Amber
+2017,Tunisia,4.804999828,Amber
+2017,Palestinian Territories,4.775000095,Amber
+2017,Egypt,4.735000134,Amber
+2017,Bulgaria,4.714000225,Amber
+2017,Sierra Leone,4.709000111,Amber
+2017,Cameroon,4.695000172,Amber
+2017,Iran,4.691999912,Amber
+2017,Albania,4.644000053,Amber
+2017,Bangladesh,4.607999802,Amber
+2017,Namibia,4.573999882,Amber
+2017,Kenya,4.552999973,Amber
+2017,Mozambique,4.5500001910000005,Amber
+2017,Myanmar,4.545000076,Amber
+2017,Senegal,4.534999847,Amber
+2017,Zambia,4.513999939,Amber
+2017,Iraq,4.497000217,Amber
+2017,Gabon,4.465000153,Amber
+2017,Ethiopia,4.460000038,Amber
+2017,Sri Lanka,4.440000057,Amber
+2017,Armenia,4.375999928,Amber
+2017,India,4.315000057,Amber
+2017,Mauritania,4.291999817,Amber
+2017,Congo (Brazzaville),4.290999889,Amber
+2017,Georgia,4.285999775,Amber
+2017,Congo (Kinshasa),4.28000021,Amber
+2017,Mali,4.190000057,Amber
+2017,Ivory Coast,4.179999828,Amber
+2017,Cambodia,4.168000221000001,Amber
+2017,Sudan,4.138999939,Amber
+2017,Ghana,4.1199998860000004,Amber
+2017,Ukraine,4.096000195,Amber
+2017,Uganda,4.0809998510000005,Amber
+2017,Burkina Faso,4.032000065,Amber
+2017,Niger,4.027999878,Amber
+2017,Malawi,3.970000029,Amber
+2017,Chad,3.9360001089999996,Amber
+2017,Zimbabwe,3.875,Amber
+2017,Lesotho,3.808000088,Amber
+2017,Angola,3.7950000760000004,Amber
+2017,Afghanistan,3.79399991,Amber
+2017,Botswana,3.766000032,Amber
+2017,Benin,3.657000065,Amber
+2017,Madagascar,3.644000053,Amber
+2017,Haiti,3.6029999260000003,Amber
+2017,Yemen,3.592999935,Amber
+2017,South Sudan,3.59100008,Amber
+2017,Liberia,3.5329999919999997,Amber
+2017,Guinea,3.5069999689999998,Amber
+2017,Togo,3.4949998860000004,Amber
+2017,Rwanda,3.4709999560000004,Amber
+2017,Syria,3.461999893,Amber
+2017,Tanzania,3.348999977,Amber
+2017,Burundi,2.904999971,Amber
+2017,Central African Republic,2.6930000780000003,Amber
+2018,Finland,7.632000000000001,Green
+2018,Norway,7.593999999999999,Green
+2018,Denmark,7.555,Green
+2018,Iceland,7.495,Green
+2018,Switzerland,7.487,Green
+2018,Netherlands,7.441,Green
+2018,Canada,7.327999999999999,Green
+2018,New Zealand,7.324,Green
+2018,Sweden,7.314,Green
+2018,Australia,7.272,Green
+2018,United Kingdom,7.19,Green
+2018,Austria,7.138999999999999,Green
+2018,Costa Rica,7.072,Green
+2018,Ireland,6.977,Green
+2018,Germany,6.965,Green
+2018,Belgium,6.9270000000000005,Green
+2018,Luxembourg,6.91,Green
+2018,United States,6.886,Green
+2018,Israel,6.814,Green
+2018,United Arab Emirates,6.774,Green
+2018,Czech Republic,6.711,Green
+2018,Malta,6.627000000000001,Green
+2018,France,6.489,Green
+2018,Mexico,6.4879999999999995,Green
+2018,Chile,6.476,Green
+2018,Taiwan,6.441,Green
+2018,Panama,6.43,Green
+2018,Brazil,6.419,Green
+2018,Argentina,6.388,Green
+2018,Guatemala,6.382000000000001,Green
+2018,Uruguay,6.379,Green
+2018,Qatar,6.374,Green
+2018,Saudi Arabia,6.371,Green
+2018,Singapore,6.343,Green
+2018,Malaysia,6.322,Green
+2018,Spain,6.31,Green
+2018,Colombia,6.26,Green
+2018,Trinidad & Tobago,6.192,Green
+2018,Slovakia,6.172999999999999,Green
+2018,El Salvador,6.167000000000001,Green
+2018,Nicaragua,6.141,Green
+2018,Poland,6.122999999999999,Green
+2018,Bahrain,6.105,Green
+2018,Uzbekistan,6.096,Green
+2018,Kuwait,6.082999999999999,Green
+2018,Thailand,6.072,Green
+2018,Italy,6.0,Green
+2018,Ecuador,5.973,Green
+2018,Belize,5.956,Green
+2018,Lithuania,5.952000000000001,Green
+2018,Slovenia,5.9479999999999995,Green
+2018,Romania,5.945,Green
+2018,Latvia,5.933,Green
+2018,Japan,5.915,Green
+2018,Mauritius,5.891,Green
+2018,Jamaica,5.89,Green
+2018,South Korea,5.875,Green
+2018,Northern Cyprus,5.835,Green
+2018,Russia,5.81,Green
+2018,Kazakhstan,5.79,Green
+2018,Cyprus,5.7620000000000005,Green
+2018,Bolivia,5.752000000000001,Green
+2018,Estonia,5.739,Green
+2018,Paraguay,5.681,Green
+2018,Peru,5.662999999999999,Green
+2018,Kosovo,5.662000000000001,Green
+2018,Moldova,5.64,Green
+2018,Turkmenistan,5.636,Green
+2018,Hungary,5.62,Green
+2018,Libya,5.566,Amber
+2018,Philippines,5.524,Amber
+2018,Honduras,5.504,Amber
+2018,Belarus,5.483,Amber
+2018,Turkey,5.483,Amber
+2018,Pakistan,5.472,Amber
+2018,Hong Kong,5.43,Amber
+2018,Portugal,5.41,Amber
+2018,Serbia,5.398,Amber
+2018,Greece,5.358,Amber
+2018,Lebanon,5.358,Amber
+2018,Montenegro,5.347,Amber
+2018,Croatia,5.321000000000001,Amber
+2018,Dominican Republic,5.3020000000000005,Amber
+2018,Algeria,5.295,Amber
+2018,Morocco,5.254,Amber
+2018,China,5.246,Amber
+2018,Azerbaijan,5.2010000000000005,Amber
+2018,Tajikistan,5.199,Amber
+2018,Macedonia,5.185,Amber
+2018,Jordan,5.1610000000000005,Amber
+2018,Nigeria,5.155,Amber
+2018,Kyrgyzstan,5.131,Amber
+2018,Bosnia and Herzegovina,5.129,Amber
+2018,Mongolia,5.125,Amber
+2018,Vietnam,5.103,Amber
+2018,Indonesia,5.093,Amber
+2018,Bhutan,5.082,Amber
+2018,Somalia,4.982,Amber
+2018,Cameroon,4.975,Amber
+2018,Bulgaria,4.933,Amber
+2018,Nepal,4.88,Amber
+2018,Venezuela,4.806,Amber
+2018,Gabon,4.758,Amber
+2018,Palestinian Territories,4.743,Amber
+2018,South Africa,4.724,Amber
+2018,Iran,4.707,Amber
+2018,Ivory Coast,4.671,Amber
+2018,Ghana,4.657,Amber
+2018,Senegal,4.631,Amber
+2018,Laos,4.623,Amber
+2018,Tunisia,4.592,Amber
+2018,Albania,4.586,Amber
+2018,Sierra Leone,4.571000000000001,Amber
+2018,Congo (Brazzaville),4.559,Amber
+2018,Bangladesh,4.5,Amber
+2018,Sri Lanka,4.471,Amber
+2018,Iraq,4.456,Amber
+2018,Mali,4.447,Amber
+2018,Namibia,4.441,Amber
+2018,Cambodia,4.433,Amber
+2018,Burkina Faso,4.4239999999999995,Amber
+2018,Egypt,4.419,Amber
+2018,Mozambique,4.417,Amber
+2018,Kenya,4.41,Amber
+2018,Zambia,4.377,Amber
+2018,Mauritania,4.356,Amber
+2018,Ethiopia,4.35,Amber
+2018,Georgia,4.34,Amber
+2018,Armenia,4.321000000000001,Amber
+2018,Myanmar,4.308,Amber
+2018,Chad,4.301,Amber
+2018,Congo (Kinshasa),4.245,Amber
+2018,India,4.19,Amber
+2018,Niger,4.166,Amber
+2018,Uganda,4.1610000000000005,Amber
+2018,Benin,4.141,Amber
+2018,Sudan,4.138999999999999,Amber
+2018,Ukraine,4.103,Amber
+2018,Togo,3.9989999999999997,Amber
+2018,Guinea,3.964,Amber
+2018,Lesotho,3.8080000000000003,Amber
+2018,Angola,3.795,Amber
+2018,Madagascar,3.7739999999999996,Amber
+2018,Zimbabwe,3.6919999999999997,Amber
+2018,Afghanistan,3.6319999999999997,Amber
+2018,Botswana,3.59,Amber
+2018,Malawi,3.5869999999999997,Amber
+2018,Haiti,3.582,Amber
+2018,Liberia,3.495,Amber
+2018,Syria,3.4619999999999997,Amber
+2018,Rwanda,3.408,Amber
+2018,Yemen,3.355,Amber
+2018,Tanzania,3.303,Amber
+2018,South Sudan,3.2539999999999996,Amber
+2018,Central African Republic,3.083,Amber
+2018,Burundi,2.905,Amber
+2019,Finland,7.769,Green
+2019,Denmark,7.6,Green
+2019,Norway,7.553999999999999,Green
+2019,Iceland,7.494,Green
+2019,Netherlands,7.4879999999999995,Green
+2019,Switzerland,7.48,Green
+2019,Sweden,7.343,Green
+2019,New Zealand,7.307,Green
+2019,Canada,7.278,Green
+2019,Austria,7.246,Green
+2019,Australia,7.228,Green
+2019,Costa Rica,7.167000000000001,Green
+2019,Israel,7.138999999999999,Green
+2019,Luxembourg,7.09,Green
+2019,United Kingdom,7.053999999999999,Green
+2019,Ireland,7.021,Green
+2019,Germany,6.985,Green
+2019,Belgium,6.922999999999999,Green
+2019,United States,6.892,Green
+2019,Czech Republic,6.852,Green
+2019,United Arab Emirates,6.825,Green
+2019,Malta,6.726,Green
+2019,Mexico,6.595,Green
+2019,France,6.5920000000000005,Green
+2019,Taiwan,6.446000000000001,Green
+2019,Chile,6.444,Green
+2019,Guatemala,6.436,Green
+2019,Saudi Arabia,6.375,Green
+2019,Qatar,6.374,Green
+2019,Spain,6.354,Green
+2019,Panama,6.321000000000001,Green
+2019,Brazil,6.3,Green
+2019,Uruguay,6.292999999999999,Green
+2019,Singapore,6.2620000000000005,Green
+2019,El Salvador,6.252999999999999,Green
+2019,Italy,6.223,Green
+2019,Bahrain,6.199,Green
+2019,Slovakia,6.1979999999999995,Green
+2019,Trinidad & Tobago,6.192,Green
+2019,Poland,6.182,Green
+2019,Uzbekistan,6.1739999999999995,Green
+2019,Lithuania,6.149,Green
+2019,Colombia,6.125,Green
+2019,Slovenia,6.117999999999999,Green
+2019,Nicaragua,6.105,Green
+2019,Kosovo,6.1,Green
+2019,Argentina,6.086,Green
+2019,Romania,6.07,Green
+2019,Cyprus,6.046,Green
+2019,Ecuador,6.028,Green
+2019,Kuwait,6.021,Green
+2019,Thailand,6.007999999999999,Green
+2019,Latvia,5.94,Green
+2019,South Korea,5.895,Green
+2019,Estonia,5.893,Green
+2019,Jamaica,5.89,Green
+2019,Mauritius,5.888,Green
+2019,Japan,5.886,Green
+2019,Honduras,5.86,Green
+2019,Kazakhstan,5.809,Green
+2019,Bolivia,5.779,Green
+2019,Hungary,5.757999999999999,Green
+2019,Paraguay,5.742999999999999,Green
+2019,Northern Cyprus,5.718,Green
+2019,Peru,5.697,Green
+2019,Portugal,5.693,Green
+2019,Pakistan,5.653,Green
+2019,Russia,5.648,Green
+2019,Philippines,5.631,Green
+2019,Serbia,5.603,Green
+2019,Moldova,5.529,Amber
+2019,Libya,5.525,Amber
+2019,Montenegro,5.523,Amber
+2019,Tajikistan,5.4670000000000005,Amber
+2019,Croatia,5.432,Amber
+2019,Hong Kong,5.43,Amber
+2019,Dominican Republic,5.425,Amber
+2019,Bosnia and Herzegovina,5.386,Amber
+2019,Turkey,5.372999999999999,Amber
+2019,Malaysia,5.3389999999999995,Amber
+2019,Belarus,5.3229999999999995,Amber
+2019,Greece,5.287000000000001,Amber
+2019,Mongolia,5.285,Amber
+2019,North Macedonia,5.274,Amber
+2019,Nigeria,5.265,Amber
+2019,Kyrgyzstan,5.261,Amber
+2019,Turkmenistan,5.247000000000001,Amber
+2019,Algeria,5.211,Amber
+2019,Morocco,5.207999999999999,Amber
+2019,Azerbaijan,5.207999999999999,Amber
+2019,Lebanon,5.197,Amber
+2019,Indonesia,5.192,Amber
+2019,China,5.191,Amber
+2019,Vietnam,5.175,Amber
+2019,Bhutan,5.082,Amber
+2019,Cameroon,5.044,Amber
+2019,Bulgaria,5.011,Amber
+2019,Ghana,4.996,Amber
+2019,Ivory Coast,4.944,Amber
+2019,Nepal,4.913,Amber
+2019,Jordan,4.906000000000001,Amber
+2019,Benin,4.883,Amber
+2019,Congo (Brazzaville),4.812,Amber
+2019,Gabon,4.7989999999999995,Amber
+2019,Laos,4.796,Amber
+2019,South Africa,4.7219999999999995,Amber
+2019,Albania,4.718999999999999,Amber
+2019,Venezuela,4.707,Amber
+2019,Cambodia,4.7,Amber
+2019,Palestinian Territories,4.696000000000001,Amber
+2019,Senegal,4.681,Amber
+2019,Somalia,4.668,Amber
+2019,Namibia,4.638999999999999,Amber
+2019,Niger,4.628,Amber
+2019,Burkina Faso,4.587,Amber
+2019,Armenia,4.559,Amber
+2019,Iran,4.548,Amber
+2019,Guinea,4.534,Amber
+2019,Georgia,4.519,Amber
+2019,Gambia,4.516,Amber
+2019,Kenya,4.5089999999999995,Amber
+2019,Mauritania,4.49,Amber
+2019,Mozambique,4.466,Amber
+2019,Tunisia,4.461,Amber
+2019,Bangladesh,4.456,Amber
+2019,Iraq,4.437,Amber
+2019,Congo (Kinshasa),4.418,Amber
+2019,Mali,4.39,Amber
+2019,Sierra Leone,4.374,Amber
+2019,Sri Lanka,4.3660000000000005,Amber
+2019,Myanmar,4.36,Amber
+2019,Chad,4.35,Amber
+2019,Ukraine,4.332,Amber
+2019,Ethiopia,4.2860000000000005,Amber
+2019,Swaziland,4.212,Amber
+2019,Uganda,4.189,Amber
+2019,Egypt,4.166,Amber
+2019,Zambia,4.107,Amber
+2019,Togo,4.085,Amber
+2019,India,4.015,Amber
+2019,Liberia,3.975,Amber
+2019,Comoros,3.9730000000000003,Amber
+2019,Madagascar,3.9330000000000003,Amber
+2019,Lesotho,3.802,Amber
+2019,Burundi,3.775,Amber
+2019,Zimbabwe,3.6630000000000003,Amber
+2019,Haiti,3.597,Amber
+2019,Botswana,3.488,Amber
+2019,Syria,3.4619999999999997,Amber
+2019,Malawi,3.41,Amber
+2019,Yemen,3.38,Amber
+2019,Rwanda,3.3339999999999996,Amber
+2019,Tanzania,3.2310000000000003,Amber
+2019,Afghanistan,3.2030000000000003,Amber
+2019,Central African Republic,3.083,Amber
+2019,South Sudan,2.853,Amber

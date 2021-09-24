@@ -1,0 +1,1173 @@
+{
+    "extract": [
+        {
+            "country": "Afghanistan",
+            "highest_rank": 141,
+            "lowest_rank": 154,
+            "highest_happiness_score": 3.79399991,
+            "lowest_happiness_score": 3.2030000000000003
+        },
+        {
+            "country": "Albania",
+            "highest_rank": 107,
+            "lowest_rank": 112,
+            "highest_happiness_score": 4.718999999999999,
+            "lowest_happiness_score": 4.586
+        },
+        {
+            "country": "Algeria",
+            "highest_rank": 38,
+            "lowest_rank": 88,
+            "highest_happiness_score": 6.355,
+            "lowest_happiness_score": 5.211
+        },
+        {
+            "country": "Angola",
+            "highest_rank": 140,
+            "lowest_rank": 142,
+            "highest_happiness_score": 3.866,
+            "lowest_happiness_score": 3.795
+        },
+        {
+            "country": "Argentina",
+            "highest_rank": 24,
+            "lowest_rank": 47,
+            "highest_happiness_score": 6.65,
+            "lowest_happiness_score": 6.086
+        },
+        {
+            "country": "Armenia",
+            "highest_rank": 116,
+            "lowest_rank": 129,
+            "highest_happiness_score": 4.559,
+            "lowest_happiness_score": 4.321000000000001
+        },
+        {
+            "country": "Australia",
+            "highest_rank": 9,
+            "lowest_rank": 11,
+            "highest_happiness_score": 7.313,
+            "lowest_happiness_score": 7.228
+        },
+        {
+            "country": "Austria",
+            "highest_rank": 10,
+            "lowest_rank": 13,
+            "highest_happiness_score": 7.246,
+            "lowest_happiness_score": 7.006000042
+        },
+        {
+            "country": "Azerbaijan",
+            "highest_rank": 81,
+            "lowest_rank": 89,
+            "highest_happiness_score": 5.291,
+            "lowest_happiness_score": 5.2010000000000005
+        },
+        {
+            "country": "Bahrain",
+            "highest_rank": 37,
+            "lowest_rank": 43,
+            "highest_happiness_score": 6.218,
+            "lowest_happiness_score": 6.086999893
+        },
+        {
+            "country": "Bangladesh",
+            "highest_rank": 110,
+            "lowest_rank": 125,
+            "highest_happiness_score": 4.643,
+            "lowest_happiness_score": 4.456
+        },
+        {
+            "country": "Belarus",
+            "highest_rank": 61,
+            "lowest_rank": 81,
+            "highest_happiness_score": 5.8020000000000005,
+            "lowest_happiness_score": 5.3229999999999995
+        },
+        {
+            "country": "Belgium",
+            "highest_rank": 16,
+            "lowest_rank": 18,
+            "highest_happiness_score": 6.928999999999999,
+            "lowest_happiness_score": 6.890999794
+        },
+        {
+            "country": "Belize",
+            "highest_rank": 49,
+            "lowest_rank": 52,
+            "highest_happiness_score": 5.956,
+            "lowest_happiness_score": 5.9559998510000005
+        },
+        {
+            "country": "Benin",
+            "highest_rank": 102,
+            "lowest_rank": 153,
+            "highest_happiness_score": 4.883,
+            "lowest_happiness_score": 3.484
+        },
+        {
+            "country": "Bhutan",
+            "highest_rank": 84,
+            "lowest_rank": 97,
+            "highest_happiness_score": 5.196000000000001,
+            "lowest_happiness_score": 5.011000156000001
+        },
+        {
+            "country": "Bolivia",
+            "highest_rank": 58,
+            "lowest_rank": 62,
+            "highest_happiness_score": 5.822999954,
+            "lowest_happiness_score": 5.752000000000001
+        },
+        {
+            "country": "Bosnia and Herzegovina",
+            "highest_rank": 78,
+            "lowest_rank": 93,
+            "highest_happiness_score": 5.386,
+            "lowest_happiness_score": 5.129
+        },
+        {
+            "country": "Botswana",
+            "highest_rank": 137,
+            "lowest_rank": 148,
+            "highest_happiness_score": 3.9739999999999998,
+            "lowest_happiness_score": 3.488
+        },
+        {
+            "country": "Brazil",
+            "highest_rank": 17,
+            "lowest_rank": 32,
+            "highest_happiness_score": 6.952000000000001,
+            "lowest_happiness_score": 6.3
+        },
+        {
+            "country": "Bulgaria",
+            "highest_rank": 97,
+            "lowest_rank": 129,
+            "highest_happiness_score": 5.011,
+            "lowest_happiness_score": 4.217
+        },
+        {
+            "country": "Burkina Faso",
+            "highest_rank": 115,
+            "lowest_rank": 145,
+            "highest_happiness_score": 4.587,
+            "lowest_happiness_score": 3.739
+        },
+        {
+            "country": "Burundi",
+            "highest_rank": 145,
+            "lowest_rank": 157,
+            "highest_happiness_score": 3.775,
+            "lowest_happiness_score": 2.904999971
+        },
+        {
+            "country": "Cambodia",
+            "highest_rank": 109,
+            "lowest_rank": 140,
+            "highest_happiness_score": 4.7,
+            "lowest_happiness_score": 3.907
+        },
+        {
+            "country": "Cameroon",
+            "highest_rank": 96,
+            "lowest_rank": 114,
+            "highest_happiness_score": 5.044,
+            "lowest_happiness_score": 4.513
+        },
+        {
+            "country": "Canada",
+            "highest_rank": 6,
+            "lowest_rank": 9,
+            "highest_happiness_score": 7.404,
+            "lowest_happiness_score": 7.278
+        },
+        {
+            "country": "Central African Republic",
+            "highest_rank": 155,
+            "lowest_rank": 155,
+            "highest_happiness_score": 3.083,
+            "lowest_happiness_score": 2.6930000780000003
+        },
+        {
+            "country": "Chad",
+            "highest_rank": 131,
+            "lowest_rank": 144,
+            "highest_happiness_score": 4.35,
+            "lowest_happiness_score": 3.763
+        },
+        {
+            "country": "Chile",
+            "highest_rank": 20,
+            "lowest_rank": 26,
+            "highest_happiness_score": 6.705,
+            "lowest_happiness_score": 6.444
+        },
+        {
+            "country": "China",
+            "highest_rank": 79,
+            "lowest_rank": 93,
+            "highest_happiness_score": 5.2729997630000005,
+            "lowest_happiness_score": 5.191
+        },
+        {
+            "country": "Colombia",
+            "highest_rank": 31,
+            "lowest_rank": 43,
+            "highest_happiness_score": 6.481,
+            "lowest_happiness_score": 6.125
+        },
+        {
+            "country": "Comoros",
+            "highest_rank": 138,
+            "lowest_rank": 142,
+            "highest_happiness_score": 3.9730000000000003,
+            "lowest_happiness_score": 3.9560000000000004
+        },
+        {
+            "country": "Congo (Brazzaville)",
+            "highest_rank": 103,
+            "lowest_rank": 127,
+            "highest_happiness_score": 4.812,
+            "lowest_happiness_score": 4.236000000000001
+        },
+        {
+            "country": "Congo (Kinshasa)",
+            "highest_rank": 125,
+            "lowest_rank": 132,
+            "highest_happiness_score": 4.418,
+            "lowest_happiness_score": 4.245
+        },
+        {
+            "country": "Costa Rica",
+            "highest_rank": 12,
+            "lowest_rank": 14,
+            "highest_happiness_score": 7.167000000000001,
+            "lowest_happiness_score": 7.072
+        },
+        {
+            "country": "Croatia",
+            "highest_rank": 74,
+            "lowest_rank": 82,
+            "highest_happiness_score": 5.4879999999999995,
+            "lowest_happiness_score": 5.293000221000001
+        },
+        {
+            "country": "Cyprus",
+            "highest_rank": 49,
+            "lowest_rank": 69,
+            "highest_happiness_score": 6.046,
+            "lowest_happiness_score": 5.546
+        },
+        {
+            "country": "Czech Republic",
+            "highest_rank": 20,
+            "lowest_rank": 27,
+            "highest_happiness_score": 6.852,
+            "lowest_happiness_score": 6.596
+        },
+        {
+            "country": "Denmark",
+            "highest_rank": 1,
+            "lowest_rank": 3,
+            "highest_happiness_score": 7.6,
+            "lowest_happiness_score": 7.521999836
+        },
+        {
+            "country": "Dominican Republic",
+            "highest_rank": 77,
+            "lowest_rank": 89,
+            "highest_happiness_score": 5.425,
+            "lowest_happiness_score": 5.155
+        },
+        {
+            "country": "Ecuador",
+            "highest_rank": 44,
+            "lowest_rank": 51,
+            "highest_happiness_score": 6.028,
+            "lowest_happiness_score": 5.973
+        },
+        {
+            "country": "Egypt",
+            "highest_rank": 104,
+            "lowest_rank": 137,
+            "highest_happiness_score": 4.735000134,
+            "lowest_happiness_score": 4.166
+        },
+        {
+            "country": "El Salvador",
+            "highest_rank": 35,
+            "lowest_rank": 46,
+            "highest_happiness_score": 6.252999999999999,
+            "lowest_happiness_score": 6.002999783
+        },
+        {
+            "country": "Estonia",
+            "highest_rank": 55,
+            "lowest_rank": 72,
+            "highest_happiness_score": 5.893,
+            "lowest_happiness_score": 5.517
+        },
+        {
+            "country": "Ethiopia",
+            "highest_rank": 115,
+            "lowest_rank": 134,
+            "highest_happiness_score": 4.508,
+            "lowest_happiness_score": 4.2860000000000005
+        },
+        {
+            "country": "Finland",
+            "highest_rank": 1,
+            "lowest_rank": 5,
+            "highest_happiness_score": 7.769,
+            "lowest_happiness_score": 7.412999999999999
+        },
+        {
+            "country": "France",
+            "highest_rank": 23,
+            "lowest_rank": 32,
+            "highest_happiness_score": 6.5920000000000005,
+            "lowest_happiness_score": 6.441999912000001
+        },
+        {
+            "country": "Gabon",
+            "highest_rank": 103,
+            "lowest_rank": 134,
+            "highest_happiness_score": 4.7989999999999995,
+            "lowest_happiness_score": 4.121
+        },
+        {
+            "country": "Gambia",
+            "highest_rank": 120,
+            "lowest_rank": 120,
+            "highest_happiness_score": 4.516,
+            "lowest_happiness_score": 4.516
+        },
+        {
+            "country": "Georgia",
+            "highest_rank": 119,
+            "lowest_rank": 128,
+            "highest_happiness_score": 4.519,
+            "lowest_happiness_score": 4.252
+        },
+        {
+            "country": "Germany",
+            "highest_rank": 15,
+            "lowest_rank": 17,
+            "highest_happiness_score": 6.994,
+            "lowest_happiness_score": 6.951000214
+        },
+        {
+            "country": "Ghana",
+            "highest_rank": 98,
+            "lowest_rank": 131,
+            "highest_happiness_score": 4.996,
+            "lowest_happiness_score": 4.1199998860000004
+        },
+        {
+            "country": "Greece",
+            "highest_rank": 79,
+            "lowest_rank": 99,
+            "highest_happiness_score": 5.358,
+            "lowest_happiness_score": 5.033
+        },
+        {
+            "country": "Guatemala",
+            "highest_rank": 27,
+            "lowest_rank": 39,
+            "highest_happiness_score": 6.453999996,
+            "lowest_happiness_score": 6.324
+        },
+        {
+            "country": "Guinea",
+            "highest_rank": 118,
+            "lowest_rank": 151,
+            "highest_happiness_score": 4.534,
+            "lowest_happiness_score": 3.5069999689999998
+        },
+        {
+            "country": "Haiti",
+            "highest_rank": 136,
+            "lowest_rank": 148,
+            "highest_happiness_score": 4.0280000000000005,
+            "lowest_happiness_score": 3.582
+        },
+        {
+            "country": "Honduras",
+            "highest_rank": 59,
+            "lowest_rank": 104,
+            "highest_happiness_score": 5.86,
+            "lowest_happiness_score": 4.871
+        },
+        {
+            "country": "Hong Kong",
+            "highest_rank": 75,
+            "lowest_rank": 76,
+            "highest_happiness_score": 5.457999999999999,
+            "lowest_happiness_score": 5.43
+        },
+        {
+            "country": "Hong Kong S.A.R., China",
+            "highest_rank": 71,
+            "lowest_rank": 71,
+            "highest_happiness_score": 5.472000122000001,
+            "lowest_happiness_score": 5.472000122000001
+        },
+        {
+            "country": "Hungary",
+            "highest_rank": 62,
+            "lowest_rank": 91,
+            "highest_happiness_score": 5.757999999999999,
+            "lowest_happiness_score": 5.145
+        },
+        {
+            "country": "Iceland",
+            "highest_rank": 3,
+            "lowest_rank": 4,
+            "highest_happiness_score": 7.504000187000001,
+            "lowest_happiness_score": 7.494
+        },
+        {
+            "country": "India",
+            "highest_rank": 118,
+            "lowest_rank": 140,
+            "highest_happiness_score": 4.404,
+            "lowest_happiness_score": 4.015
+        },
+        {
+            "country": "Indonesia",
+            "highest_rank": 79,
+            "lowest_rank": 96,
+            "highest_happiness_score": 5.314,
+            "lowest_happiness_score": 5.093
+        },
+        {
+            "country": "Iran",
+            "highest_rank": 105,
+            "lowest_rank": 117,
+            "highest_happiness_score": 4.813,
+            "lowest_happiness_score": 4.548
+        },
+        {
+            "country": "Iraq",
+            "highest_rank": 112,
+            "lowest_rank": 126,
+            "highest_happiness_score": 4.575,
+            "lowest_happiness_score": 4.437
+        },
+        {
+            "country": "Ireland",
+            "highest_rank": 14,
+            "lowest_rank": 19,
+            "highest_happiness_score": 7.021,
+            "lowest_happiness_score": 6.907
+        },
+        {
+            "country": "Israel",
+            "highest_rank": 11,
+            "lowest_rank": 19,
+            "highest_happiness_score": 7.267,
+            "lowest_happiness_score": 6.814
+        },
+        {
+            "country": "Italy",
+            "highest_rank": 36,
+            "lowest_rank": 50,
+            "highest_happiness_score": 6.223,
+            "lowest_happiness_score": 5.964000225
+        },
+        {
+            "country": "Ivory Coast",
+            "highest_rank": 99,
+            "lowest_rank": 139,
+            "highest_happiness_score": 4.944,
+            "lowest_happiness_score": 3.9160000000000004
+        },
+        {
+            "country": "Jamaica",
+            "highest_rank": 56,
+            "lowest_rank": 76,
+            "highest_happiness_score": 5.89,
+            "lowest_happiness_score": 5.31099987
+        },
+        {
+            "country": "Japan",
+            "highest_rank": 51,
+            "lowest_rank": 58,
+            "highest_happiness_score": 5.921,
+            "lowest_happiness_score": 5.886
+        },
+        {
+            "country": "Jordan",
+            "highest_rank": 74,
+            "lowest_rank": 101,
+            "highest_happiness_score": 5.335999966,
+            "lowest_happiness_score": 4.906000000000001
+        },
+        {
+            "country": "Kazakhstan",
+            "highest_rank": 54,
+            "lowest_rank": 60,
+            "highest_happiness_score": 5.919,
+            "lowest_happiness_score": 5.79
+        },
+        {
+            "country": "Kenya",
+            "highest_rank": 112,
+            "lowest_rank": 124,
+            "highest_happiness_score": 4.552999973,
+            "lowest_happiness_score": 4.356
+        },
+        {
+            "country": "Kosovo",
+            "highest_rank": 46,
+            "lowest_rank": 78,
+            "highest_happiness_score": 6.1,
+            "lowest_happiness_score": 5.278999805
+        },
+        {
+            "country": "Kuwait",
+            "highest_rank": 39,
+            "lowest_rank": 51,
+            "highest_happiness_score": 6.239,
+            "lowest_happiness_score": 6.021
+        },
+        {
+            "country": "Kyrgyzstan",
+            "highest_rank": 85,
+            "lowest_rank": 98,
+            "highest_happiness_score": 5.261,
+            "lowest_happiness_score": 5.004000187
+        },
+        {
+            "country": "Laos",
+            "highest_rank": 102,
+            "lowest_rank": 110,
+            "highest_happiness_score": 4.876,
+            "lowest_happiness_score": 4.623
+        },
+        {
+            "country": "Latvia",
+            "highest_rank": 53,
+            "lowest_rank": 68,
+            "highest_happiness_score": 5.94,
+            "lowest_happiness_score": 5.56
+        },
+        {
+            "country": "Lebanon",
+            "highest_rank": 79,
+            "lowest_rank": 93,
+            "highest_happiness_score": 5.358,
+            "lowest_happiness_score": 5.129
+        },
+        {
+            "country": "Lesotho",
+            "highest_rank": 139,
+            "lowest_rank": 144,
+            "highest_happiness_score": 3.808000088,
+            "lowest_happiness_score": 3.802
+        },
+        {
+            "country": "Liberia",
+            "highest_rank": 141,
+            "lowest_rank": 150,
+            "highest_happiness_score": 3.975,
+            "lowest_happiness_score": 3.495
+        },
+        {
+            "country": "Libya",
+            "highest_rank": 67,
+            "lowest_rank": 72,
+            "highest_happiness_score": 5.615,
+            "lowest_happiness_score": 5.525
+        },
+        {
+            "country": "Lithuania",
+            "highest_rank": 42,
+            "lowest_rank": 60,
+            "highest_happiness_score": 6.149,
+            "lowest_happiness_score": 5.813
+        },
+        {
+            "country": "Luxembourg",
+            "highest_rank": 14,
+            "lowest_rank": 20,
+            "highest_happiness_score": 7.09,
+            "lowest_happiness_score": 6.862999916000001
+        },
+        {
+            "country": "Macedonia",
+            "highest_rank": 89,
+            "lowest_rank": 95,
+            "highest_happiness_score": 5.185,
+            "lowest_happiness_score": 5.121
+        },
+        {
+            "country": "Madagascar",
+            "highest_rank": 143,
+            "lowest_rank": 148,
+            "highest_happiness_score": 3.9330000000000003,
+            "lowest_happiness_score": 3.644000053
+        },
+        {
+            "country": "Malawi",
+            "highest_rank": 132,
+            "lowest_rank": 150,
+            "highest_happiness_score": 4.156000000000001,
+            "lowest_happiness_score": 3.41
+        },
+        {
+            "country": "Malaysia",
+            "highest_rank": 35,
+            "lowest_rank": 80,
+            "highest_happiness_score": 6.322,
+            "lowest_happiness_score": 5.3389999999999995
+        },
+        {
+            "country": "Mali",
+            "highest_rank": 118,
+            "lowest_rank": 135,
+            "highest_happiness_score": 4.447,
+            "lowest_happiness_score": 4.073
+        },
+        {
+            "country": "Malta",
+            "highest_rank": 22,
+            "lowest_rank": 30,
+            "highest_happiness_score": 6.726,
+            "lowest_happiness_score": 6.4879999999999995
+        },
+        {
+            "country": "Mauritania",
+            "highest_rank": 122,
+            "lowest_rank": 130,
+            "highest_happiness_score": 4.49,
+            "lowest_happiness_score": 4.2010000000000005
+        },
+        {
+            "country": "Mauritius",
+            "highest_rank": 55,
+            "lowest_rank": 66,
+            "highest_happiness_score": 5.891,
+            "lowest_happiness_score": 5.629000187000001
+        },
+        {
+            "country": "Mexico",
+            "highest_rank": 21,
+            "lowest_rank": 25,
+            "highest_happiness_score": 6.778,
+            "lowest_happiness_score": 6.4879999999999995
+        },
+        {
+            "country": "Moldova",
+            "highest_rank": 55,
+            "lowest_rank": 71,
+            "highest_happiness_score": 5.897,
+            "lowest_happiness_score": 5.529
+        },
+        {
+            "country": "Mongolia",
+            "highest_rank": 83,
+            "lowest_rank": 101,
+            "highest_happiness_score": 5.285,
+            "lowest_happiness_score": 4.907
+        },
+        {
+            "country": "Montenegro",
+            "highest_rank": 73,
+            "lowest_rank": 88,
+            "highest_happiness_score": 5.523,
+            "lowest_happiness_score": 5.1610000000000005
+        },
+        {
+            "country": "Morocco",
+            "highest_rank": 84,
+            "lowest_rank": 90,
+            "highest_happiness_score": 5.254,
+            "lowest_happiness_score": 5.151
+        },
+        {
+            "country": "Mozambique",
+            "highest_rank": 113,
+            "lowest_rank": 123,
+            "highest_happiness_score": 4.5500001910000005,
+            "lowest_happiness_score": 4.417
+        },
+        {
+            "country": "Myanmar",
+            "highest_rank": 114,
+            "lowest_rank": 131,
+            "highest_happiness_score": 4.545000076,
+            "lowest_happiness_score": 4.308
+        },
+        {
+            "country": "Namibia",
+            "highest_rank": 111,
+            "lowest_rank": 119,
+            "highest_happiness_score": 4.638999999999999,
+            "lowest_happiness_score": 4.441
+        },
+        {
+            "country": "Nepal",
+            "highest_rank": 99,
+            "lowest_rank": 107,
+            "highest_happiness_score": 4.961999893,
+            "lowest_happiness_score": 4.793
+        },
+        {
+            "country": "Netherlands",
+            "highest_rank": 5,
+            "lowest_rank": 7,
+            "highest_happiness_score": 7.4879999999999995,
+            "lowest_happiness_score": 7.3389999999999995
+        },
+        {
+            "country": "New Zealand",
+            "highest_rank": 8,
+            "lowest_rank": 8,
+            "highest_happiness_score": 7.334,
+            "lowest_happiness_score": 7.307
+        },
+        {
+            "country": "Nicaragua",
+            "highest_rank": 41,
+            "lowest_rank": 48,
+            "highest_happiness_score": 6.141,
+            "lowest_happiness_score": 5.992000000000001
+        },
+        {
+            "country": "Niger",
+            "highest_rank": 114,
+            "lowest_rank": 142,
+            "highest_happiness_score": 4.628,
+            "lowest_happiness_score": 3.8560000000000003
+        },
+        {
+            "country": "Nigeria",
+            "highest_rank": 85,
+            "lowest_rank": 103,
+            "highest_happiness_score": 5.265,
+            "lowest_happiness_score": 4.875
+        },
+        {
+            "country": "North Cyprus",
+            "highest_rank": 61,
+            "lowest_rank": 62,
+            "highest_happiness_score": 5.809999942999999,
+            "lowest_happiness_score": 5.771
+        },
+        {
+            "country": "North Macedonia",
+            "highest_rank": 84,
+            "lowest_rank": 84,
+            "highest_happiness_score": 5.274,
+            "lowest_happiness_score": 5.274
+        },
+        {
+            "country": "Northern Cyprus",
+            "highest_rank": 58,
+            "lowest_rank": 64,
+            "highest_happiness_score": 5.835,
+            "lowest_happiness_score": 5.718
+        },
+        {
+            "country": "Norway",
+            "highest_rank": 1,
+            "lowest_rank": 4,
+            "highest_happiness_score": 7.593999999999999,
+            "lowest_happiness_score": 7.497999999999999
+        },
+        {
+            "country": "Pakistan",
+            "highest_rank": 67,
+            "lowest_rank": 92,
+            "highest_happiness_score": 5.653,
+            "lowest_happiness_score": 5.132000000000001
+        },
+        {
+            "country": "Palestinian Territories",
+            "highest_rank": 103,
+            "lowest_rank": 110,
+            "highest_happiness_score": 4.775000095,
+            "lowest_happiness_score": 4.696000000000001
+        },
+        {
+            "country": "Panama",
+            "highest_rank": 25,
+            "lowest_rank": 31,
+            "highest_happiness_score": 6.7010000000000005,
+            "lowest_happiness_score": 6.321000000000001
+        },
+        {
+            "country": "Paraguay",
+            "highest_rank": 63,
+            "lowest_rank": 70,
+            "highest_happiness_score": 5.742999999999999,
+            "lowest_happiness_score": 5.493000031
+        },
+        {
+            "country": "Peru",
+            "highest_rank": 63,
+            "lowest_rank": 65,
+            "highest_happiness_score": 5.742999999999999,
+            "lowest_happiness_score": 5.662999999999999
+        },
+        {
+            "country": "Philippines",
+            "highest_rank": 69,
+            "lowest_rank": 82,
+            "highest_happiness_score": 5.631,
+            "lowest_happiness_score": 5.279
+        },
+        {
+            "country": "Poland",
+            "highest_rank": 40,
+            "lowest_rank": 57,
+            "highest_happiness_score": 6.182,
+            "lowest_happiness_score": 5.835
+        },
+        {
+            "country": "Portugal",
+            "highest_rank": 66,
+            "lowest_rank": 94,
+            "highest_happiness_score": 5.693,
+            "lowest_happiness_score": 5.122999999999999
+        },
+        {
+            "country": "Puerto Rico",
+            "highest_rank": 15,
+            "lowest_rank": 15,
+            "highest_happiness_score": 7.039,
+            "lowest_happiness_score": 7.039
+        },
+        {
+            "country": "Qatar",
+            "highest_rank": 29,
+            "lowest_rank": 36,
+            "highest_happiness_score": 6.375,
+            "lowest_happiness_score": 6.374
+        },
+        {
+            "country": "Romania",
+            "highest_rank": 48,
+            "lowest_rank": 71,
+            "highest_happiness_score": 6.07,
+            "lowest_happiness_score": 5.528
+        },
+        {
+            "country": "Russia",
+            "highest_rank": 49,
+            "lowest_rank": 68,
+            "highest_happiness_score": 5.962999821,
+            "lowest_happiness_score": 5.648
+        },
+        {
+            "country": "Rwanda",
+            "highest_rank": 151,
+            "lowest_rank": 152,
+            "highest_happiness_score": 3.515,
+            "lowest_happiness_score": 3.3339999999999996
+        },
+        {
+            "country": "Saudi Arabia",
+            "highest_rank": 28,
+            "lowest_rank": 37,
+            "highest_happiness_score": 6.379,
+            "lowest_happiness_score": 6.343999863
+        },
+        {
+            "country": "Senegal",
+            "highest_rank": 109,
+            "lowest_rank": 128,
+            "highest_happiness_score": 4.681,
+            "lowest_happiness_score": 4.218999999999999
+        },
+        {
+            "country": "Serbia",
+            "highest_rank": 70,
+            "lowest_rank": 86,
+            "highest_happiness_score": 5.603,
+            "lowest_happiness_score": 5.1770000000000005
+        },
+        {
+            "country": "Sierra Leone",
+            "highest_rank": 106,
+            "lowest_rank": 129,
+            "highest_happiness_score": 4.709000111,
+            "lowest_happiness_score": 4.374
+        },
+        {
+            "country": "Singapore",
+            "highest_rank": 22,
+            "lowest_rank": 34,
+            "highest_happiness_score": 6.739,
+            "lowest_happiness_score": 6.2620000000000005
+        },
+        {
+            "country": "Slovakia",
+            "highest_rank": 38,
+            "lowest_rank": 45,
+            "highest_happiness_score": 6.1979999999999995,
+            "lowest_happiness_score": 6.077999999999999
+        },
+        {
+            "country": "Slovenia",
+            "highest_rank": 44,
+            "lowest_rank": 63,
+            "highest_happiness_score": 6.117999999999999,
+            "lowest_happiness_score": 5.757999897
+        },
+        {
+            "country": "Somalia",
+            "highest_rank": 76,
+            "lowest_rank": 112,
+            "highest_happiness_score": 5.44,
+            "lowest_happiness_score": 4.668
+        },
+        {
+            "country": "Somaliland Region",
+            "highest_rank": 97,
+            "lowest_rank": 97,
+            "highest_happiness_score": 5.0569999999999995,
+            "lowest_happiness_score": 5.0569999999999995
+        },
+        {
+            "country": "South Africa",
+            "highest_rank": 101,
+            "lowest_rank": 116,
+            "highest_happiness_score": 4.828999996,
+            "lowest_happiness_score": 4.459
+        },
+        {
+            "country": "South Korea",
+            "highest_rank": 54,
+            "lowest_rank": 57,
+            "highest_happiness_score": 5.895,
+            "lowest_happiness_score": 5.835
+        },
+        {
+            "country": "South Sudan",
+            "highest_rank": 143,
+            "lowest_rank": 156,
+            "highest_happiness_score": 3.832,
+            "lowest_happiness_score": 2.853
+        },
+        {
+            "country": "Spain",
+            "highest_rank": 30,
+            "lowest_rank": 37,
+            "highest_happiness_score": 6.402999877999999,
+            "lowest_happiness_score": 6.31
+        },
+        {
+            "country": "Sri Lanka",
+            "highest_rank": 116,
+            "lowest_rank": 130,
+            "highest_happiness_score": 4.471,
+            "lowest_happiness_score": 4.3660000000000005
+        },
+        {
+            "country": "Sudan",
+            "highest_rank": 130,
+            "lowest_rank": 137,
+            "highest_happiness_score": 4.138999999999999,
+            "lowest_happiness_score": 4.138999939
+        },
+        {
+            "country": "Suriname",
+            "highest_rank": 40,
+            "lowest_rank": 40,
+            "highest_happiness_score": 6.269,
+            "lowest_happiness_score": 6.269
+        },
+        {
+            "country": "Swaziland",
+            "highest_rank": 135,
+            "lowest_rank": 135,
+            "highest_happiness_score": 4.212,
+            "lowest_happiness_score": 4.212
+        },
+        {
+            "country": "Sweden",
+            "highest_rank": 7,
+            "lowest_rank": 10,
+            "highest_happiness_score": 7.343,
+            "lowest_happiness_score": 7.28399992
+        },
+        {
+            "country": "Switzerland",
+            "highest_rank": 2,
+            "lowest_rank": 6,
+            "highest_happiness_score": 7.5089999999999995,
+            "lowest_happiness_score": 7.48
+        },
+        {
+            "country": "Syria",
+            "highest_rank": 149,
+            "lowest_rank": 156,
+            "highest_happiness_score": 3.4619999999999997,
+            "lowest_happiness_score": 3.069
+        },
+        {
+            "country": "Taiwan",
+            "highest_rank": 25,
+            "lowest_rank": 34,
+            "highest_happiness_score": 6.446000000000001,
+            "lowest_happiness_score": 6.379
+        },
+        {
+            "country": "Taiwan Province of China",
+            "highest_rank": 33,
+            "lowest_rank": 33,
+            "highest_happiness_score": 6.421999931,
+            "lowest_happiness_score": 6.421999931
+        },
+        {
+            "country": "Tajikistan",
+            "highest_rank": 74,
+            "lowest_rank": 100,
+            "highest_happiness_score": 5.4670000000000005,
+            "lowest_happiness_score": 4.996
+        },
+        {
+            "country": "Tanzania",
+            "highest_rank": 149,
+            "lowest_rank": 153,
+            "highest_happiness_score": 3.6660000000000004,
+            "lowest_happiness_score": 3.2310000000000003
+        },
+        {
+            "country": "Thailand",
+            "highest_rank": 32,
+            "lowest_rank": 52,
+            "highest_happiness_score": 6.474,
+            "lowest_happiness_score": 6.007999999999999
+        },
+        {
+            "country": "Togo",
+            "highest_rank": 139,
+            "lowest_rank": 155,
+            "highest_happiness_score": 4.085,
+            "lowest_happiness_score": 3.303
+        },
+        {
+            "country": "Trinidad & Tobago",
+            "highest_rank": 38,
+            "lowest_rank": 39,
+            "highest_happiness_score": 6.192,
+            "lowest_happiness_score": 6.192
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "highest_rank": 38,
+            "lowest_rank": 43,
+            "highest_happiness_score": 6.168000221000001,
+            "lowest_happiness_score": 6.167999999999999
+        },
+        {
+            "country": "Tunisia",
+            "highest_rank": 98,
+            "lowest_rank": 124,
+            "highest_happiness_score": 5.045,
+            "lowest_happiness_score": 4.461
+        },
+        {
+            "country": "Turkey",
+            "highest_rank": 69,
+            "lowest_rank": 79,
+            "highest_happiness_score": 5.5,
+            "lowest_happiness_score": 5.372999999999999
+        },
+        {
+            "country": "Turkmenistan",
+            "highest_rank": 59,
+            "lowest_rank": 87,
+            "highest_happiness_score": 5.8220000270000005,
+            "lowest_happiness_score": 5.247000000000001
+        },
+        {
+            "country": "Uganda",
+            "highest_rank": 133,
+            "lowest_rank": 145,
+            "highest_happiness_score": 4.189,
+            "lowest_happiness_score": 3.739
+        },
+        {
+            "country": "Ukraine",
+            "highest_rank": 123,
+            "lowest_rank": 138,
+            "highest_happiness_score": 4.332,
+            "lowest_happiness_score": 4.096000195
+        },
+        {
+            "country": "United Arab Emirates",
+            "highest_rank": 20,
+            "lowest_rank": 28,
+            "highest_happiness_score": 6.825,
+            "lowest_happiness_score": 6.5729999999999995
+        },
+        {
+            "country": "United Kingdom",
+            "highest_rank": 11,
+            "lowest_rank": 23,
+            "highest_happiness_score": 7.19,
+            "lowest_happiness_score": 6.714000225
+        },
+        {
+            "country": "United States",
+            "highest_rank": 13,
+            "lowest_rank": 19,
+            "highest_happiness_score": 7.104,
+            "lowest_happiness_score": 6.886
+        },
+        {
+            "country": "Uruguay",
+            "highest_rank": 28,
+            "lowest_rank": 33,
+            "highest_happiness_score": 6.545,
+            "lowest_happiness_score": 6.292999999999999
+        },
+        {
+            "country": "Uzbekistan",
+            "highest_rank": 41,
+            "lowest_rank": 49,
+            "highest_happiness_score": 6.1739999999999995,
+            "lowest_happiness_score": 5.971000195
+        },
+        {
+            "country": "Venezuela",
+            "highest_rank": 44,
+            "lowest_rank": 108,
+            "highest_happiness_score": 6.084,
+            "lowest_happiness_score": 4.707
+        },
+        {
+            "country": "Vietnam",
+            "highest_rank": 94,
+            "lowest_rank": 96,
+            "highest_happiness_score": 5.175,
+            "lowest_happiness_score": 5.061
+        },
+        {
+            "country": "Yemen",
+            "highest_rank": 146,
+            "lowest_rank": 152,
+            "highest_happiness_score": 3.7239999999999998,
+            "lowest_happiness_score": 3.355
+        },
+        {
+            "country": "Zambia",
+            "highest_rank": 106,
+            "lowest_rank": 138,
+            "highest_happiness_score": 4.795,
+            "lowest_happiness_score": 4.107
+        },
+        {
+            "country": "Zimbabwe",
+            "highest_rank": 131,
+            "lowest_rank": 146,
+            "highest_happiness_score": 4.1930000000000005,
+            "lowest_happiness_score": 3.6630000000000003
+        }
+    ]
+}
